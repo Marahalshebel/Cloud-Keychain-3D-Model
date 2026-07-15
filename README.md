@@ -38,8 +38,8 @@ Cloud-Keychain-3D-Model/
 
 | File | Description |
 |------|-------------|
-| Cloud_Keychain.stl | Exported STL file of the cloud keychain |
-| Output.png | Screenshot of the final 3D model |
+| Part Studio 1 - Part 1.stl | Exported STL file of the cloud keychain |
+| Screenshot.png | Screenshot of the final 3D model |
 | README.md | Project documentation |
 
 ## Design Process
