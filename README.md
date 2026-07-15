@@ -38,9 +38,9 @@ Cloud-Keychain-3D-Model/
 
 | File | Description |
 |------|-------------|
-| Part Studio 1 - Part 1.stl | Exported STL file of the cloud keychain |
-| Screenshot.png | Screenshot of the final 3D model |
-| README.md | Project documentation |
+| [Part Studio 1 - Part 1.stl](Part%20Studio%201%20-%20Part%201.stl) | Exported STL file of the cloud keychain |
+| [Screenshot.png](Screenshot.png) | Screenshot of the final 3D model |
+| [README.md](README.md) | Project documentation |
 
 ## Design Process
 1. Create the cloud sketch.
