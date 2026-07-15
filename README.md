@@ -32,14 +32,12 @@ https://cad.onshape.com/documents/3a24a1d6647b363b2faeef8b/w/b4012f5e62422df3b09
 Cloud-Keychain-3D-Model/
 │
 ├── Part Studio 1 - Part 1.stl
-├── Screenshot.png
 └── README.md
 ```
 
 | File | Description |
 |------|-------------|
 | [Part Studio 1 - Part 1.stl](Part%20Studio%201%20-%20Part%201.stl) | Exported STL file of the cloud keychain |
-| [Screenshot.png](Screenshot.png) | Screenshot of the final 3D model |
 | [README.md](README.md) | Project documentation |
 
 ## Design Process
